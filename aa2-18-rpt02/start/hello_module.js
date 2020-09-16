@@ -1,3 +1,3 @@
 module.exports = function (what) {
-  console.log("Hello " + what + "!");
+  console.log("Hello" + what + "!");
 };

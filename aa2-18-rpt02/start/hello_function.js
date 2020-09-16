@@ -1,7 +1,7 @@
-// hello_function.js
+//hello_function.js
 function hello(what) {
-  console.log("Hello " + what + "!");
+  console.log("Hello" + what + "!");
 }
 
-hello("aa18");
-hello("SongDaEun, 송다은");
+hello("aa16");
+hello("Redwoods, 김규년");
